@@ -1,0 +1,15 @@
+/Users/kalyan/projects/ClinicBookingSystems/ClinicBookingSystem.Core/bin/Debug/net8.0/ClinicBookingSystem.Core.deps.json
+/Users/kalyan/projects/ClinicBookingSystems/ClinicBookingSystem.Core/bin/Debug/net8.0/ClinicBookingSystem.Core.runtimeconfig.json
+/Users/kalyan/projects/ClinicBookingSystems/ClinicBookingSystem.Core/bin/Debug/net8.0/ClinicBookingSystem.Core.dll
+/Users/kalyan/projects/ClinicBookingSystems/ClinicBookingSystem.Core/bin/Debug/net8.0/ClinicBookingSystem.Core.pdb
+/Users/kalyan/projects/ClinicBookingSystems/ClinicBookingSystem.Core/obj/Debug/net8.0/ClinicBookingSystem.Core.csproj.AssemblyReference.cache
+/Users/kalyan/projects/ClinicBookingSystems/ClinicBookingSystem.Core/obj/Debug/net8.0/ClinicBookingSystem.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kalyan/projects/ClinicBookingSystems/ClinicBookingSystem.Core/obj/Debug/net8.0/ClinicBookingSystem.Core.AssemblyInfoInputs.cache
+/Users/kalyan/projects/ClinicBookingSystems/ClinicBookingSystem.Core/obj/Debug/net8.0/ClinicBookingSystem.Core.AssemblyInfo.cs
+/Users/kalyan/projects/ClinicBookingSystems/ClinicBookingSystem.Core/obj/Debug/net8.0/ClinicBookingSystem.Core.csproj.CoreCompileInputs.cache
+/Users/kalyan/projects/ClinicBookingSystems/ClinicBookingSystem.Core/obj/Debug/net8.0/ClinicBookingSystem.Core.sourcelink.json
+/Users/kalyan/projects/ClinicBookingSystems/ClinicBookingSystem.Core/obj/Debug/net8.0/ClinicBookingSystem.Core.dll
+/Users/kalyan/projects/ClinicBookingSystems/ClinicBookingSystem.Core/obj/Debug/net8.0/refint/ClinicBookingSystem.Core.dll
+/Users/kalyan/projects/ClinicBookingSystems/ClinicBookingSystem.Core/obj/Debug/net8.0/ClinicBookingSystem.Core.pdb
+/Users/kalyan/projects/ClinicBookingSystems/ClinicBookingSystem.Core/obj/Debug/net8.0/ClinicBookingSystem.Core.genruntimeconfig.cache
+/Users/kalyan/projects/ClinicBookingSystems/ClinicBookingSystem.Core/obj/Debug/net8.0/ref/ClinicBookingSystem.Core.dll

@@ -1,0 +1,56 @@
+bin/
+obj/
+.vs/
+*.user
+*.db-shm
+*.db-wal
+*.log
+.DS_Store
+*.db
+*.sqlite
+*.sqlite3
+# macOS
+
+.DS_Store
+
+# Visual Studio
+
+.vs/
+.vscode/
+
+# .NET build folders
+
+bin/
+obj/
+
+# User-specific files
+
+*.user
+*.suo
+*.userprefs
+
+# Build results
+
+*.dll
+*.exe
+*.pdb
+*.cache
+*.log
+
+# NuGet
+
+*.nupkg
+.nuget/
+packages/
+
+# Rider
+
+.idea/
+
+# OS files
+
+Thumbs.db
+
+# ASP.NET
+
+appsettings.Development.json
